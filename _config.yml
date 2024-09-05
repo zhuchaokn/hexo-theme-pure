@@ -31,7 +31,7 @@ site:
     width: 40
     height: 40
     url: ../images/logo.png
-  title: Hexo # 页面title
+  title: 铜声瘦骨 # 页面title
   favicon: /favicon.png
   board: <p>欢迎交流与分享经验!</p> # 站点公告
   copyright: false # 底部版权信息
@@ -202,10 +202,10 @@ profile:
   articleSelfBlock: false # 关闭文章下方的自我介绍
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 昵称
-  author_title: Web Developer & Designer
-  author_description: 个人简介。
-  location: Shenzhen, China
+  author: 铜声瘦骨
+  author_title: 胡林林的丈夫、呦呦爸爸、程序员以及业余心理咨询师。
+  author_description: 人穷马瘦剑术疏，天寒路远雪塞途。  长啸一声溯风去，人声何处不江湖。
+  location: Chengdu, China
   follow: https://github.com/cofess
   # Social Links
   social:
